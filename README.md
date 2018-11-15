@@ -1,2 +1,0 @@
-# projeks3
-primapsPOS
